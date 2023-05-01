@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @sorkhabi-net (Sorkhabi.NeT) From Sorkh Dev
+- 👋 Hi, I’m Sorkhabi (@sorkhabi-net)
 - 👀 I’m interested in PHP/MySQL/Laravel/JS/HTML/CSS/Python
+- 🔗 My blog https://sorkhabi.net/
